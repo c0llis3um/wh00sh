@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wh00sh
 - 👀 I’m interested in CODING
-- 📫 How to reach me sacbe.co
+
 
 
 <!---
