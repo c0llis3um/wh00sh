@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @wh00sh
 - 👀 I’m interested in CODING
+- UX IU Front end dev HTML/CSS/JS/Python 
 
 
 
